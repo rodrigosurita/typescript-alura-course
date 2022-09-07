@@ -1,7 +1,7 @@
 ![Alura Cover](https://github.com/rodrigosurita/typescript_alura_course/blob/main/readme/thumb.png?raw=true)
 
 # Description
-Project created during the typescript course track in [Alura Learning Platform](http://alura.com.br)
+Project created during the typescript course track in <a href="https://www.alura.com.br/" target="_blank">Alura Learning Platform</a>.
 
 ## 🔨 Functionalities
 - `Trade Register`: You can create trade registers in the frontend using typescript to save it in local memory
