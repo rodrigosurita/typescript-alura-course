@@ -1,4 +1,4 @@
-![Alura Cover](https://github.com/rodrigosurita/typescript_alura_course/blob/main/readme/thumb.png?raw=true)
+![Alura Cover](https://github.com/rodrigosurita/typescript-alura-course/blob/main/readme/thumb.png?raw=true)
 
 # Description
 Project created during the typescript course track in <a href="https://www.alura.com.br/" target="_blank">Alura Learning Platform</a>.
