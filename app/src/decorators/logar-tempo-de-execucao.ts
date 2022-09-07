@@ -1,9 +1,9 @@
 export function logarTempoDeExecucao(emSegundos: boolean = false) {
-    return function(
+    return (
         target: any,
         propertyKey: string,
         descriptor: PropertyDescriptor
-    ) {
+    ) => {
         const metodoOriginal = descriptor.value;
         descriptor.value = function(...args: any[]) {
             let divisor = 1;
