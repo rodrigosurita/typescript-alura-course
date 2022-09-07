@@ -1,1 +1,1 @@
-![Alura Cover](https://github.com/rodrigosurita/typescript_alura_course/readme/thumb.png?raw=true)
+![Alura Cover](https://github.com/rodrigosurita/typescript_alura_course/blob/main/readme/thumb.png?raw=true)
